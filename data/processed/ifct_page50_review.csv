@@ -1,0 +1,2 @@
+﻿food_code,food_name,regions_count,source_pdf_page,observed_value_count,expected_value_count,extracted_values,review_reason
+E033,"Lemon, juice (Citrus limon)",6,50,6,9,91.59±0.53 | 0.41±0.05 | 0.28±0.03 | 0.75±0.02 | 6.97±0.56 | 153±9,Nutrient count does not match expected columns

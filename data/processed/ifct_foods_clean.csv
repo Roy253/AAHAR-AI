@@ -1,0 +1,120 @@
+food_code,food_name,regions_count,source_pdf_page,moisture_g,protein_g,ash_g,fat_g,fiber_total_g,fiber_insoluble_g,fiber_soluble_g,carbs_available_g,energy_kj
+E017,"Dates, dry, pale brown (Phoenix dactylifera)",6,50,11.14,2.45,2.2,0.35,8.95,7.53,1.42,74.91,1340.0
+E018,"Dates, dry, dark brown (Phoenix dactylifera)",2,50,13.13,2.38,2.39,0.35,9.1,7.57,1.53,72.67,1301.0
+E019,"Dates, processed (Phoenix dactylifera)",2,50,22.01,1.18,1.93,0.41,6.52,5.68,0.84,67.95,1197.0
+E020,Fig (Ficus carica),6,50,75.6,2.03,1.08,0.37,4.64,2.59,2.05,16.28,341.0
+E021,Gooseberry (Emblica officinalis),5,50,87.02,0.34,0.34,0.16,7.75,6.2,1.55,4.39,99.0
+E022,"Grapes, seeded, round, black (Vitis vinifera)",4,50,83.88,0.76,0.46,0.32,1.35,0.82,0.52,13.23,254.0
+E023,"Grapes, seeded, round, green (Vitis vinifera)",5,50,85.07,0.77,0.43,0.29,1.25,0.81,0.44,12.19,235.0
+E024,"Grapes, seeded, round, red (Vitis vinifera)",5,50,84.46,0.95,0.48,0.29,1.28,0.85,0.43,12.55,244.0
+E025,"Grapes, seedless, oval, black (Vitis vinifera)",5,50,75.3,1.41,0.7,0.46,1.64,0.98,0.66,20.48,395.0
+E026,"Grapes, seedless, round, green (Vitis vinifera)",5,50,85.55,0.62,0.47,0.26,1.28,0.85,0.44,11.81,224.0
+E027,"Grapes, seedless, round, black (Vitis vinifera)",5,50,76.9,1.24,0.49,0.35,1.15,0.83,0.32,19.86,374.0
+E028,"Guava, white flesh (Psidium guajava)",5,50,83.79,1.44,0.72,0.32,8.59,7.14,1.45,5.13,135.0
+E029,"Guava, pink flesh (Psidium guajava)",5,50,81.22,1.19,0.81,0.25,7.39,6.12,1.28,9.14,195.0
+E030,"Jack fruit, ripe (Artocarpus heterophyllus)",5,50,78.56,2.74,0.91,0.15,3.62,2.21,1.41,14.01,302.0
+E031,"Jambu fruit, ripe (Syzygium samarangense)",2,50,83.33,0.82,0.31,0.17,3.07,2.4,0.67,12.3,235.0
+E032,Karonda fruit (Carissa carandas),1,50,86.04,1.15,1.02,1.67,7.25,5.87,1.38,2.87,141.0
+E033,"Lemon, juice (Citrus limon)",6,50,91.59,0.41,0.28,0.75,,,,6.97,153.0
+E034,"Lime, sweet,pulp (Citrus limetta)",6,50,91.32,0.76,0.47,0.2,2.07,1.33,0.74,5.18,114.0
+E035,Litchi (Litchi chinensis),4,50,85.56,0.99,0.44,0.26,1.34,0.81,0.53,11.41,225.0
+E036,"Mango, ripe, banganapalli (Mangifera indica)",6,50,88.44,0.54,0.42,0.55,1.88,1.01,0.87,8.18,175.0
+E037,"Mango, ripe, gulabkhas (Mangifera indica)",2,50,86.65,0.52,0.32,0.53,1.67,1.03,0.64,10.32,209.0
+E038,"Mango, ripe, himsagar (Mangifera indica)",3,51,88.04,0.46,0.38,0.54,1.55,0.82,0.73,9.03,187.0
+E039,"Mango, ripe, kesar (Mangifera indica)",4,51,85.07,0.54,0.44,0.57,2.02,1.09,0.93,11.36,231.0
+E040,"Mango, ripe, neelam (Mangifera indica)",2,51,88.41,0.68,0.38,0.55,1.77,0.97,0.79,8.21,178.0
+E041,"Mango, ripe, paheri (Mangifera indica)",2,51,87.69,0.68,0.42,0.58,1.97,0.99,0.98,8.67,188.0
+E042,"Mango, ripe, totapari (Mangifera indica)",1,51,84.14,0.41,0.47,0.49,1.73,0.95,0.78,12.75,248.0
+E043,Mangosteen (Garcinia mangostana),1,51,85.52,0.63,0.33,0.24,1.87,1.23,0.64,11.41,219.0
+E044,Manila tamarind (Pithecellobium dulce),1,51,74.54,3.56,2.82,1.14,4.4,3.3,1.1,13.54,342.0
+E045,"Musk melon, orange flesh (Cucumis melon)",5,51,92.97,0.42,0.52,0.35,1.51,0.84,0.67,4.24,97.0
+E046,"Musk melon, yellow flesh (Cucumis melon)",6,51,91.84,0.53,0.48,0.26,1.49,0.79,0.7,5.4,116.0
+E047,"Orange, pulp (Citrus aurantium)",6,51,89.61,0.7,0.36,0.13,1.29,0.73,0.56,7.92,156.0
+E048,"Palm fruit, tender (Borassus flabellifer)",1,51,91.93,0.5,0.13,0.12,2.4,1.87,0.53,4.92,101.0
+E049,"Papaya, ripe (Carica papaya)",6,51,91.47,0.42,0.51,0.16,2.83,1.75,1.08,4.61,100.0
+E050,Peach (Prunus communis),1,51,88.31,0.86,0.51,0.37,2.13,1.22,0.91,7.82,168.0
+E051,Pear (Pyrus sp.),6,51,86.49,0.36,0.32,0.27,4.48,4.02,0.46,8.09,157.0
+E052,Phalsa (Grewia asiatica),2,51,77.48,1.66,1.09,0.14,4.54,3.44,1.09,15.09,299.0
+E053,Pineapple (Ananas comosus),6,51,86.06,0.52,0.38,0.16,3.46,2.88,0.59,9.42,180.0
+E054,Plum (Prunus domestica),3,51,84.44,0.64,0.35,0.4,2.07,1.23,0.84,12.1,238.0
+E055,"Pomegranate, maroon seeds (Punica granatum)",6,51,83.55,1.33,0.57,0.15,2.83,2.26,0.57,11.58,229.0
+E056,Pummelo (Citrus maxima),3,51,86.97,0.68,0.49,0.42,0.8,0.49,0.31,10.64,210.0
+E057,"Raisins, dried, black (Vitis vinifera)",6,51,19.69,2.57,2.19,0.34,3.92,2.55,1.37,71.29,1279.0
+E058,"Raisins, dried, golden (Vitis vinifera)",6,51,21.5,2.76,2.04,0.35,4.56,3.04,1.53,68.79,1241.0
+E059,Rambutan (Nephelium lappaceum),1,52,80.87,0.68,0.43,0.16,1.02,0.71,0.3,16.84,306.0
+E060,Sapota (Achras sapota),6,52,73.64,0.92,0.68,1.26,9.6,8.46,1.14,13.9,307.0
+E061,Soursop (Annona muricata),1,52,80.85,0.74,0.58,0.94,4.95,3.79,1.16,11.94,260.0
+E062,Star fruit (Averrhoa carambola),1,52,91.18,0.79,0.33,0.39,2.81,2.17,0.64,4.51,110.0
+E063,Strawberry (Fragaria x ananassa),6,52,92.03,0.97,0.54,0.56,2.5,1.51,0.99,3.4,103.0
+E064,"Tamarind, pulp (Tamarindus indica)",6,52,20.83,2.92,3.44,0.15,5.31,3.73,1.58,67.35,1207.0
+E065,"Water melon, dark green (sugar baby) (Citrullus vulgaris)",6,52,94.54,0.6,0.13,0.16,0.7,0.35,0.34,3.86,85.0
+E066,"Water melon, pale green (Citrullus vulgaris)",6,52,95.33,0.59,0.12,0.16,0.78,0.4,0.38,3.02,70.0
+E067,Wood Apple (Limonia acidissima),3,52,79.36,3.14,1.15,3.62,5.21,3.77,1.44,7.52,327.0
+E068,Zizyphus(Zizyphus jujube),1,52,84.39,1.34,0.8,0.35,3.73,2.71,1.02,9.4,204.0
+F001,Beet root (Beta vulgaris),6,52,86.95,1.95,1.46,0.14,3.31,2.6,0.71,6.18,149.0
+F002,"Carrot, orange (Daucus carota)",6,52,87.69,0.95,1.16,0.47,4.18,2.81,1.37,5.55,139.0
+F003,"Carrot, red (Daucus carota)",4,52,86.07,1.04,1.22,0.47,4.49,3.09,1.4,6.71,160.0
+F004,Colocasia (Colocasia esculenta),6,52,73.49,3.31,1.95,0.17,3.22,2.54,0.68,17.85,372.0
+F005,Lotus root (Nelumbium nelumbo),3,52,76.26,1.94,1.5,0.93,4.7,2.86,1.84,14.67,332.0
+F006,"Potato, brown skin, big (Solanum tuberosum)",6,52,80.72,1.54,0.92,0.23,1.71,1.13,0.58,14.89,292.0
+F007,"Potato, brown skin, small (Solanum tuberosum)",1,52,82.97,1.35,0.87,0.22,1.69,1.15,0.54,12.9,255.0
+F008,"Potato, red skin (Solanum tuberosum)",1,52,79.72,1.83,1.13,0.22,1.68,1.11,0.57,15.43,306.0
+F009,"Radish, elongate, red skin (Raphanus sativus)",3,52,89.32,0.67,0.73,0.13,2.46,1.96,0.49,6.71,134.0
+F010,"Radish, elongate, white skin (Raphanus sativus)",6,53,89.05,0.77,0.82,0.15,2.65,1.98,0.67,6.56,135.0
+F011,"Radish, round, red skin (Raphanus sativus)",1,53,89.68,0.89,0.91,0.16,2.29,1.56,0.73,6.07,130.0
+F012,"Radish, round, white skin (Raphanus sativus)",2,53,89.76,0.8,0.8,0.14,2.37,1.63,0.74,6.13,129.0
+F013,"Sweet potato, brown skin (Ipomoea batatas)",4,53,69.21,1.33,0.96,0.26,3.99,2.57,1.43,24.25,456.0
+F014,"Sweet potato, pink skin (Ipomoea batatas)",3,53,69.58,1.27,0.95,0.33,3.94,2.53,1.41,23.93,452.0
+F015,Tapioca (Manihot esculenta),3,53,75.23,1.03,1.12,0.2,4.61,3.85,0.76,17.81,334.0
+F016,Water Chestnut (Eleocharis dulcis),1,53,73.34,0.86,0.95,0.37,3.02,2.15,0.87,21.46,400.0
+F017,"Yam, elephant (Amorphophallus campanulatus)",6,53,74.39,2.56,1.29,0.14,4.17,3.25,0.92,17.46,353.0
+F018,"Yam, ordinary (Amorphophallus sp.)",4,53,74.28,2.18,1.64,0.17,4.08,3.32,0.76,17.65,349.0
+F019,"Yam, wild (Dioscorea villosa)",2,53,69.35,3.07,1.76,0.3,4.57,3.29,1.29,20.95,430.0
+G001,"Chillies, green-1 (Capsicum annum)",5,53,84.47,2.62,1.01,0.73,4.86,3.31,1.55,6.32,191.0
+G002,"Chillies, green-2 (Capsicum annum)",3,53,85.72,2.28,0.85,0.75,5.13,3.79,1.34,5.27,167.0
+G003,"Chillies, green-3 (Capsicum annum)",5,53,85.59,2.38,0.95,0.75,5.1,3.61,1.5,5.23,169.0
+G004,"Chillies, green-4 (Capsicum annum)",3,53,85.29,2.33,0.87,0.74,4.15,2.84,1.31,6.63,190.0
+G005,"Chillies, green-5 (Capsicum annum)",2,53,85.93,2.01,0.82,0.65,3.95,2.83,1.12,6.64,180.0
+G006,"Chillies, green-6 (Capsicum annum)",1,53,84.93,3.01,0.96,0.64,5.15,3.91,1.24,5.31,175.0
+G007,"Chillies, green-7 (Capsicum annum)",1,53,85.83,2.12,0.9,0.6,4.95,3.75,1.2,5.61,163.0
+G008,"Chillies, green - all varieties (Capsicum annum)",6,53,85.39,2.36,0.91,0.72,4.77,3.41,1.37,5.86,177.0
+G009,Coriander leaves (Coriandrum sativum),6,53,86.99,3.52,2.19,0.7,4.66,3.24,1.42,1.93,130.0
+G010,Curry leaves (Murraya koenigii),6,54,65.33,7.41,4.86,1.06,16.83,13.81,3.02,4.51,266.0
+G011,"Garlic, big clove (Allium sativum)",6,54,64.38,6.92,1.4,0.16,5.22,2.56,2.66,21.93,518.0
+G012,"Garlic, small clove (Allium sativum)",3,54,64.42,6.75,1.38,0.14,5.47,2.61,2.86,21.84,514.0
+G013,"Garlic, single clove, Kashmir (Allium sativum)",1,54,64.49,6.12,1.76,0.16,4.01,2.2,1.81,23.46,523.0
+G014,"Ginger, fresh (Zingiber officinale)",6,54,81.27,2.22,1.33,0.85,5.36,4.28,1.08,8.97,230.0
+G015,Mango ginger (Curcuma amada),3,54,84.55,1.45,1.57,0.7,4.74,3.79,0.95,6.98,177.0
+G016,Mint leaves (Mentha spicata ),4,54,84.24,4.66,2.18,0.65,5.89,4.49,1.4,2.39,155.0
+G017,"Onion, big (Allium cepa)",6,54,85.76,1.5,0.5,0.24,2.45,1.92,0.53,9.56,201.0
+G018,"Onion, small (Allium cepa)",5,54,84.67,1.82,0.61,0.16,1.16,0.7,0.46,11.58,237.0
+G019,Asafoetida (Ferula assa-foetida),6,54,9.42,6.34,5.9,1.26,5.13,3.9,1.23,71.95,1387.0
+G020,"Cardamom, green (Elettaria cardamomum)",6,54,11.24,8.1,7.21,2.6,23.1,20.46,2.64,47.76,1067.0
+G021,"Cardamom, black (Elettaria cardamomum)",4,54,6.69,6.69,7.84,2.8,23.46,20.73,2.74,52.53,1132.0
+G022,"Chillies, red (Capsicum annum)",6,54,14.57,12.69,5.73,6.4,31.15,26.55,4.6,29.46,990.0
+G023,Cloves (Syzygium aromaticum),6,54,26.49,5.86,5.99,8.41,34.52,28.07,6.46,18.73,781.0
+G024,Coriander seeds (Coriandrum sativum),6,54,8.72,10.66,5.36,17.47,44.81,35.27,9.54,12.98,1125.0
+G025,Cumin seeds (Cuminum cyminum),6,54,10.59,13.91,5.9,16.64,30.35,25.73,4.62,22.62,1274.0
+G026,Fenugreek seeds (Trigonella foenum graecum),6,54,7.82,25.41,2.93,5.72,47.55,27.63,19.92,10.57,983.0
+G027,Mace (Myristica fragrans),6,54,20.06,6.24,2.47,24.41,20.31,16.78,3.54,26.51,1488.0
+G028,Nutmeg (Myristica fragrans),6,54,15.55,6.3,1.99,36.52,11.99,10.54,1.46,27.64,1940.0
+G029,Omum (Trachyspermum ammi),6,54,9.71,15.89,8.18,21.11,20.58,17.2,3.38,24.53,1495.0
+G030,Pippali (Piper longum),6,55,10.95,10.53,6.41,2.27,34.14,29.57,4.57,35.7,906.0
+G031,"Pepper, black (Piper nigrum)",6,55,13.18,10.12,4.58,2.74,33.16,30.61,2.54,36.22,910.0
+G032,Poppy seeds (Papaver somniferum),6,55,4.22,20.31,6.04,30.38,26.68,15.62,11.06,12.37,1768.0
+G033,Turmeric powder (Curcuma domestica),6,55,10.58,7.66,6.13,5.03,21.38,18.79,2.59,49.22,1174.0
+H001,Almond (Prunus amygdalus),6,55,4.37,18.41,2.62,58.49,13.06,10.55,2.52,3.04,2549.0
+H002,"Arecanut, dried, brown (Areca catechu)",6,55,6.63,5.78,1.39,4.35,11.44,10.14,1.3,70.42,1467.0
+H003,"Arecanut, dried, red color (Areca catechu)",3,55,6.3,6.46,1.41,4.46,11.11,10.09,1.03,70.27,1477.0
+H004,"Arecanut, fresh (Areca catechu)",2,55,37.7,2.73,1.43,5.51,7.63,6.59,1.03,45.0,1024.0
+H005,Cashew nut (Anacardium occidentale),6,55,4.44,18.78,2.25,45.2,3.86,2.23,1.63,25.46,2438.0
+H006,"Coconut, kernel, dry (Cocos nucifera)",6,55,3.97,7.27,1.61,63.26,15.88,14.55,1.33,8.01,2611.0
+H007,"Coconut, kernel, fresh (Cocos nucifera)",6,55,36.14,3.84,1.93,41.38,10.42,9.43,0.99,6.3,1711.0
+H008,"Garden cress, seeds (Lepidium sativum)",5,55,4.6,23.36,6.37,23.74,8.27,6.33,1.95,33.66,1863.0
+H009,"Gingelly seeds, black (Sesamum indicum)",6,55,4.51,19.17,5.78,43.1,17.16,13.57,3.59,10.29,2124.0
+H010,"Gingelly seeds, brown (Sesamum indicum)",4,55,3.62,21.61,4.58,43.22,17.21,13.58,3.63,9.76,2161.0
+H011,"Gingelly seeds, white (Sesamum indicum)",5,55,3.3,21.7,4.13,43.05,16.99,13.49,3.51,10.83,2174.0
+H012,Ground nut (Arachis hypogaea),6,55,6.97,23.65,2.11,39.63,10.38,8.58,1.79,17.27,2176.0
+H013,Mustard seeds (Brassica nigra),6,55,5.67,19.51,3.73,40.19,14.1,10.63,3.47,16.8,2132.0
+H014,Linseeds (Linum usitatissimum),6,55,5.48,18.55,3.15,35.67,26.17,21.83,4.33,10.99,1857.0
+H015,"Niger seeds, black (Guizotia abyssinica)",4,55,4.65,18.92,3.91,38.61,10.93,10.5,0.43,22.98,2144.0
