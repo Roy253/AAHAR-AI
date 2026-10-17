@@ -1,0 +1,15 @@
+AAHAR AI - DATASET BUILD SUMMARY
+==================================================
+Structured records: 20
+Records needing review: 1
+Unique structured codes: 20
+Unique review codes: 1
+Codes appearing in both: 0
+Total unique codes: 21
+
+Important:
+- Parsed does not mean fully source-verified.
+- Review records are not model-ready.
+- Missing values must not be replaced with zero without evidence.
+
+Audit CSV: reports\dataset_build_audit.csv

@@ -1,0 +1,12 @@
+AAHAR AI - PAGES 50-51 BUILD REPORT
+Page 50 input rows: 21
+Page 51 input rows: 21
+Combined rows: 42
+Unique food codes: 42
+Duplicate food codes: 0
+
+IMPORTANT:
+This is a combined candidate dataset, not a fully source-verified dataset.
+Page-50 and page-51 records retain their original source-page references.
+Format checks do not independently verify all nutrient values.
+Output: data\processed\ifct_pages50_51_candidate.csv

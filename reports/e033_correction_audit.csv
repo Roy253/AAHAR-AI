@@ -1,0 +1,2 @@
+﻿food_code,source_pdf_page,status,blank_fields,note
+E033,50,MAPPED_FROM_VISIBLE_SOURCE_POSITIONS,fiber_total_g;fiber_insoluble_g;fiber_soluble_g,Values mapped using the visible PDF row positions; confirm against the original table before production use.

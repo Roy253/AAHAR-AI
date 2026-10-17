@@ -1,0 +1,11 @@
+AAHAR AI - EXTRACTION AUDIT
+Source food records: 21
+Structured CSV records: 20
+Unique source codes: 21
+Unique CSV codes: 20
+
+Missing from CSV: ['E033']
+Unexpected in CSV: []
+
+Source codes:
+E017, E018, E019, E020, E021, E022, E023, E024, E025, E026, E027, E028, E029, E030, E031, E032, E033, E034, E035, E036, E037

@@ -1,0 +1,22 @@
+food_code,food_name,status,reason
+E017,"Dates, dry, pale brown (Phoenix dactylifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E018,"Dates, dry, dark brown (Phoenix dactylifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E019,"Dates, processed (Phoenix dactylifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E020,Fig (Ficus carica),parsed_pending_source_validation,Record has expected field count; verify against source
+E021,Gooseberry (Emblica officinalis),parsed_pending_source_validation,Record has expected field count; verify against source
+E022,"Grapes, seeded, round, black (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E023,"Grapes, seeded, round, green (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E024,"Grapes, seeded, round, red (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E025,"Grapes, seedless, oval, black (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E026,"Grapes, seedless, round, green (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E027,"Grapes, seedless, round, black (Vitis vinifera)",parsed_pending_source_validation,Record has expected field count; verify against source
+E028,"Guava, white flesh (Psidium guajava)",parsed_pending_source_validation,Record has expected field count; verify against source
+E029,"Guava, pink flesh (Psidium guajava)",parsed_pending_source_validation,Record has expected field count; verify against source
+E030,"Jack fruit, ripe (Artocarpus heterophyllus)",parsed_pending_source_validation,Record has expected field count; verify against source
+E031,"Jambu fruit, ripe (Syzygium samarangense)",parsed_pending_source_validation,Record has expected field count; verify against source
+E032,Karonda fruit (Carissa carandas),parsed_pending_source_validation,Record has expected field count; verify against source
+E033,"Lemon, juice (Citrus limon)",needs_review,Nutrient count does not match expected columns
+E034,"Lime, sweet,pulp (Citrus limetta)",parsed_pending_source_validation,Record has expected field count; verify against source
+E035,Litchi (Litchi chinensis),parsed_pending_source_validation,Record has expected field count; verify against source
+E036,"Mango, ripe, banganapalli (Mangifera indica)",parsed_pending_source_validation,Record has expected field count; verify against source
+E037,"Mango, ripe, gulabkhas (Mangifera indica)",parsed_pending_source_validation,Record has expected field count; verify against source

@@ -1,0 +1,12 @@
+food_code,field,expected,actual,match
+E038,food_name,"Mango, ripe, himsagar (Mangifera indica)","Mango, ripe, himsagar (Mangifera indica)",True
+E038,regions_count,3,3,True
+E038,moisture_g,88.04±0.10,88.04±0.10,True
+E038,protein_g,0.46±0.04,0.46±0.04,True
+E038,ash_g,0.38±0.02,0.38±0.02,True
+E038,fat_g,0.54±0.02,0.54±0.02,True
+E038,fiber_total_g,1.55±0.13,1.55±0.13,True
+E038,fiber_insoluble_g,0.82±0.19,0.82±0.19,True
+E038,fiber_soluble_g,0.73±0.06,0.73±0.06,True
+E038,carbs_available_g,9.03±0.26,9.03±0.26,True
+E038,energy_kj,187±5,187±5,True
